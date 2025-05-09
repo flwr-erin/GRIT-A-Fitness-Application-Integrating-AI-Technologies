@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "353846065263",
+    "project_id": "gritdb",
+    "storage_bucket": "gritdb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353846065263:android:01ec035a268f38c70e759a",
+        "android_client_info": {
+          "package_name": "com.example.grit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1BWjcYuxTnqEQujyQ5b6VPo3ZfayLBRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
