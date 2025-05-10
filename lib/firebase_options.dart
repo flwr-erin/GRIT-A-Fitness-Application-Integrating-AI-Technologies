@@ -46,30 +46,5 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCoSd6JkInfc0tUv5KTjG3joZi0PtH_wX8',
-    appId: '1:353846065263:web:6af10f159cc0e36d0e759a',
-    messagingSenderId: '353846065263',
-    projectId: 'gritdb',
-    authDomain: 'gritdb.firebaseapp.com',
-    storageBucket: 'gritdb.firebasestorage.app',
-    measurementId: 'G-STLM78FE57',
-  );
-
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyD1BWjcYuxTnqEQujyQ5b6VPo3ZfayLBRk',
-    appId: '1:353846065263:android:01ec035a268f38c70e759a',
-    messagingSenderId: '353846065263',
-    projectId: 'gritdb',
-    storageBucket: 'gritdb.firebasestorage.app',
-  );
-
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDrTb6GcStHFWctx7IHpfEFS8SjaWebgNY',
-    appId: '1:353846065263:ios:2819068d87a20edf0e759a',
-    messagingSenderId: '353846065263',
-    projectId: 'gritdb',
-    storageBucket: 'gritdb.firebasestorage.app',
-    iosBundleId: 'com.example.grit',
   );
 }
